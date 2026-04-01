@@ -8,12 +8,12 @@
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 [![Google Colab](https://img.shields.io/badge/Google-Colab-yellow)](https://colab.research.google.com/)
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/lovnishverma)
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/AnitaBudhiraja)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![GitHub stars](https://img.shields.io/github/stars/lovnishverma/Python-Getting-Started.svg?style=social&label=Star)](https://github.com/lovnishverma/Python-Getting-Started)
-[![GitHub forks](https://img.shields.io/github/forks/lovnishverma/Python-Getting-Started.svg?style=social&label=Fork)](https://github.com/lovnishverma/Python-Getting-Started/fork)
+[![GitHub stars](https://img.shields.io/github/stars/AnitaBudhiraja/Python-Getting-Started.svg?style=social&label=Star)](https://github.com/AnitaBudhiraja/Python-Getting-Started)
+[![GitHub forks](https://img.shields.io/github/forks/AnitaBudhiraja/Python-Getting-Started.svg?style=social&label=Fork)](https://github.com/AnitaBudhiraja/Python-Getting-Started/fork)
 
-*A complete collection of **Google Colab Notebooks**, **PDFs**, and **resources** created by **Lovnish Verma** for learning and teaching Python programming, Data Science, Machine Learning, and Deep Learning concepts interactively.*
+*A complete collection of **Google Colab Notebooks**, **PDFs**, and **resources** created by **Anita Budhiraja** for learning and teaching Python programming, Data Science, Machine Learning, and Deep Learning concepts interactively.*
 
 **📚 50+ Notebooks | 🎓 Progressive Learning | 🚀 Production Ready | 💼 Industry Projects**
 
@@ -50,7 +50,7 @@
 
 ---
 
-*© 2025 Lovnish Verma. Licensed under GPL-3.0. Built with passion for education.* 
+*© 2025 Anita Budhiraja. Licensed under GPL-3.0. Built with passion for education.* 
 
 </div>
 
@@ -106,7 +106,7 @@ From Python basics to cutting-edge AI implementations, this repository provides 
    # Just click on any .ipynb file and select "Open in Colab"
    
    # Option 2: Local Jupyter
-   git clone https://github.com/lovnishverma/Python-Getting-Started.git
+   git clone https://github.com/AnitaBudhiraja/Python-Getting-Started.git
    cd Python-Getting-Started
    jupyter notebook
    
@@ -226,7 +226,7 @@ drive.mount('/content/drive')
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/lovnishverma/Python-Getting-Started.git
+   git clone https://github.com/AnitaBudhiraja/Python-Getting-Started.git
    cd Python-Getting-Started
    ```
 
@@ -808,7 +808,7 @@ print(f"Expected shape: {expected}, Got: {actual.shape}")
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lovnishverma&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnitaBudhiraja&show_icons=true&theme=radical)
 
 | Metric | Count | Growth |
 |--------|--------|--------|
@@ -870,7 +870,7 @@ print(f"Expected shape: {expected}, Got: {actual.shape}")
 
 ---
 
-> *"These notebooks provide a hands-on approach and real-world projects that students find engaging. Lovnish has created a truly valuable educational resource."*
+> *"These notebooks provide a hands-on approach and real-world projects that students find engaging. Anita has created a truly valuable educational resource."*
 > 
 > **— Dr. Sarwan Singh, Joint Director @ NIELIT CHANDIGARH**
 > ⭐⭐⭐⭐⭐
@@ -1004,15 +1004,15 @@ We believe in the power of collaborative learning! Whether you're a beginner or 
 
 <div align="center">
 
-![Lovnish Verma](https://avatars.githubusercontent.com/u/54941901?s=96&v=4)
+![Anita Budhiraja](https://avatars.githubusercontent.com/u/54941901?s=96&v=4)
 
-### **Lovnish Verma**
+### **Anita Budhiraja**
 *Passionate Educator & AI Engineer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/lovnishverma)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/lovnishverma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/AnitaBudhiraja)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/AnitaBudhiraja)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:princelv84@gmail.com)
-[![Website](https://img.shields.io/badge/Website-Visit-green)](https://lovnishverma.github.io)
+[![Website](https://img.shields.io/badge/Website-Visit-green)](https://AnitaBudhiraja.github.io)
 
 </div>
 
@@ -1100,7 +1100,7 @@ We believe in the power of collaborative learning! Whether you're a beginner or 
 
 *Remember: every expert was once a beginner. The only difference between where you are now and where you want to be is the journey you're willing to take. I'm here to guide you every step of the way."*
 
-**— Lovnish Verma**
+**— Anita Budhiraja**
 
 ---
 
@@ -1114,14 +1114,14 @@ We believe in the power of collaborative learning! Whether you're a beginner or 
 [princelv84@gmail.com](mailto:princelv84@gmail.com)
 
 **🌐 Professional Networks**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lovnishverma)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lovnishverma)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/lovnishofficial)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AnitaBudhiraja)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnitaBudhiraja)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Anitaofficial)
 
 **📱 Community Channels**
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/lovnishverma)
-[![Telegram](https://img.shields.io/badge/Telegram-Subscribe-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lovnishverma)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@lovnishverma)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AnitaBudhiraja)
+[![Telegram](https://img.shields.io/badge/Telegram-Subscribe-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AnitaBudhiraja)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AnitaBudhiraja)
 
 </div>
 
