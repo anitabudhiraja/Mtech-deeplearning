@@ -1011,7 +1011,7 @@ We believe in the power of collaborative learning! Whether you're a beginner or 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/AnitaBudhiraja)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/AnitaBudhiraja)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:princelv84@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:a.budhiraja@nielit.gov.in)
 [![Website](https://img.shields.io/badge/Website-Visit-green)](https://AnitaBudhiraja.github.io)
 
 </div>
