@@ -2,7 +2,7 @@
 
 ![DS\_Python](https://github.com/user-attachments/assets/9c4f6d08-891b-484a-860d-81fefaca5e61)
 
-# 🧠 Python for Data Science – Comprehensive Learning Repository
+# 🧠 Python for AI/ML – Learning Repository
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/downloads/)
