@@ -10,8 +10,8 @@
 [![Google Colab](https://img.shields.io/badge/Google-Colab-yellow)](https://colab.research.google.com/)
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/AnitaBudhiraja)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![GitHub stars](https://img.shields.io/github/stars/AnitaBudhiraja/Python-Getting-Started.svg?style=social&label=Star)](https://github.com/AnitaBudhiraja/Python-Getting-Started)
-[![GitHub forks](https://img.shields.io/github/forks/AnitaBudhiraja/Python-Getting-Started.svg?style=social&label=Fork)](https://github.com/AnitaBudhiraja/Python-Getting-Started/fork)
+[![GitHub stars](https://img.shields.io/github/stars/AnitaBudhiraja/Mtech-deeplearning.svg?style=social&label=Star)](https://github.com/AnitaBudhiraja/Mtech-deeplearning)
+[![GitHub forks](https://img.shields.io/github/forks/AnitaBudhiraja/Mtech-deeplearning.svg?style=social&label=Fork)](https://github.com/AnitaBudhiraja/Mtech-deeplearning/fork)
 
 *A complete collection of **Google Colab Notebooks**, **PDFs**, and **resources** created by **Anita Budhiraja** for learning and teaching Python programming, Data Science, Machine Learning, and Deep Learning concepts interactively.*
 
@@ -106,8 +106,8 @@ From Python basics to cutting-edge AI implementations, this repository provides 
    # Just click on any .ipynb file and select "Open in Colab"
    
    # Option 2: Local Jupyter
-   git clone https://github.com/AnitaBudhiraja/Python-Getting-Started.git
-   cd Python-Getting-Started
+   git clone https://github.com/AnitaBudhiraja/Mtech-deeplearning.git
+   cd Mtech-deeplearning
    jupyter notebook
    
    # Option 3: GitHub Codespaces
@@ -226,8 +226,8 @@ drive.mount('/content/drive')
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AnitaBudhiraja/Python-Getting-Started.git
-   cd Python-Getting-Started
+   git clone https://github.com/AnitaBudhiraja/Mtech-deeplearning.git
+   cd Mtech-deeplearning
    ```
 
 2. **Launch Jupyter:**
