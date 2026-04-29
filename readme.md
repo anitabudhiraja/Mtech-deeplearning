@@ -1004,7 +1004,7 @@ We believe in the power of collaborative learning! Whether you're a beginner or 
 
 <div align="center">
 
-![Anita Budhiraja](https://avatars.githubusercontent.com/u/54941901?s=96&v=4)
+![Anita Budhiraja](https://raw.githubusercontent.com/anitabudhiraja/Mtech-deeplearning/refs/heads/main/profile.jpg)
 
 ### **Anita Budhiraja**
 *Passionate Educator & AI Engineer*
